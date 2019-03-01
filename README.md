@@ -9,7 +9,6 @@ $ docker run --rm --name smokeping \
   -e PGID=1001 \ 
   -p 80:80 \
   -v `pwd`/data:/data \
-  -v `pwd`/config:/config \
   --restart unless-stopped \
   linuxserver/smokeping
 ```
@@ -47,3 +46,7 @@ $ id username
 * JupiterBroadcasting
 * GoogleSearch
 * linuxserverio
+
+## References
+
+* [Using Amazon EFS to Persist Data from Amazon ECS Containers](https://github.com/awslabs/amazon-ecs-amazon-efs)
