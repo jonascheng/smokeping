@@ -1,5 +1,7 @@
 # Customized SmokePing
 
+[aws/us-east-1](https://sping.jonasc.dev)
+
 ## Usage
 
 ```console
