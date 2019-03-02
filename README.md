@@ -50,3 +50,4 @@ $ id username
 ## References
 
 * [Using Amazon EFS to Persist Data from Amazon ECS Containers](https://github.com/awslabs/amazon-ecs-amazon-efs)
+* [Tutorial: Continuous Deployment with CodePipeline](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cd-pipeline.html)
